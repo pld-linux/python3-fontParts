@@ -6,7 +6,7 @@ Summary:	Set of objects for performing math operations on font data
 Summary(pl.UTF-8):	Zbiór obiektów do wykonywania operacji matematycznych na danych fontów
 Name:		python3-fontParts
 Version:	0.9.11
-Release:	2
+Release:	3
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/fontparts/
